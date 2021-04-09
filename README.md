@@ -64,8 +64,8 @@
 
 ## About The Project
 
-[![Travel-App][product-screenshot]](/images/screenshot.png)
-
+![Travel-App](https://github.com/sahilkargutkar/palghar-tourism/edit/master/images/screenshot.png)
+![Screenshot](https://github.com/sahilkargutkar/Sflix/blob/master/images/Screenshot.png )
 
 ### Built With
 
@@ -143,10 +143,10 @@ Project Link: [https://github.com/sahilkargutkar/palghar-tourism](https://github
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
+[contributors-shield]: https://img.shields.io/github/contributors/sahilkargutkar/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/sahilkargutkar/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sahilkargutkar/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/sahilkargutkar/repo/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
 [stars-url]: https://github.com/github_username/repo/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
