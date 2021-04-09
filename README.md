@@ -64,8 +64,7 @@
 
 ## About The Project
 
-![Travel-App](https://github.com/sahilkargutkar/palghar-tourism/edit/master/images/screenshot.png)
-![Screenshot](https://github.com/sahilkargutkar/Sflix/blob/master/images/Screenshot.png )
+![Travel-App](https://github.com/sahilkargutkar/palghar-tourism/blob/master/images/screenshot.png)
 
 ### Built With
 
